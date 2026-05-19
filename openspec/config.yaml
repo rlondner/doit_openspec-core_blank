@@ -6,7 +6,6 @@ context: |
   API conventions: RESTful, JSON responses
   Testing: No testing, no unit tests, no integration tests, no end to end tests
   Style: ESLint with Prettier, strict TypeScript
-  Build: Use pnpm workspace and node_modules located in 2 folders up (in a folder named 'doit_root') to resolve dependencies
 
 rules:
   proposal:
