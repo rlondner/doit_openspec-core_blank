@@ -3,7 +3,7 @@
 A minimal Next.js starter pre-configured with an OpenSpec `config.yaml`, ready to drop into an AI-assisted spec-driven development workflow.
 
 This repo is the companion template for the Medium post:
-**[PLACEHOLDER — link will be added once published]**
+**[Spec Kit vs. OpenSpec: I Built the Same App Twice to Find Out](https://medium.com/@raphaellondner/spec-kit-vs-openspec-i-built-the-same-app-twice-to-find-out-0fcdcfa08b46)**
 
 ---
 
